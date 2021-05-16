@@ -1,3 +1,15 @@
+# Aangepast voor educatief gebruik / project
+
+Onderstaande is het origineel project. 
+Aangebrachte wijzigingen voor eduatief gebruik: 
+- Aangepaste Colab Notebook 
+- Gebruik van startbestanden
+- Aangepaste Turbozoom.py 
+- Toevoeging markdown in Colab Notebook. 
+
+Voor gebruik: referenties en OG materiaal hieronder. 
+
+
 # 3d-ken-burns
 This is a reference implementation of 3D Ken Burns Effect from a Single Image [1] using PyTorch. Given a single input image, it animates this still image with a virtual camera scan and zoom subject to motion parallax. Should you be making use of our work, please cite our paper [1].
 
